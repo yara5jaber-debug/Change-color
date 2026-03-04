@@ -1,0 +1,29 @@
+ body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      height: 100vh;
+    }
+
+    .top {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    
+
+    button {
+      height: 40px;
+      width: 120px;
+      cursor: pointer;
+    }
+
+    .bottom {
+      height: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    
